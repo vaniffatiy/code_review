@@ -36,6 +36,7 @@ I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=yellow)
 ![Pycharm](https://img.shields.io/badge/pycharm-6DA55F?style=for-the-badge&logo=pycharm&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest%20-%232671E5.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%2320232a.svg?style=for-the-badge&logo=postman&logoColor=%FF6C37)
 ![Gherkin](https://img.shields.io/badge/gherkin-blue?style=for-the-badge&logo=gherkin&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-green?style=for-the-badge&logo=allure&logoColor=white)
