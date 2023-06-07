@@ -8,8 +8,8 @@
   <a href="https://www.instagram.com/witnessofblue/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-  <a href="https://www.youtube.com/channel/UCoHdu8iqS8XcNn-GYi894lA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.facebook.com/svyatoslav.mytsykov">
+    <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
     </a>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=vaniffatiy&style=flat-square&color=blue" alt=""/>
@@ -26,9 +26,9 @@ I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 - :mechanic: I’m working as a QA automation engineer and contributing to frontend :national_park: and backend :building_construction: testing.
 
-- :seedling: Exploring Technical Content Writing.
+- :books: Exploring Language learning.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode, read tech articles and create music
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-vaniffatiy-blue?style=flat&logo=Telegram&logoColor=white)](vaniffatiy)
 
